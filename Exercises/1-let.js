@@ -1,5 +1,5 @@
 'use strict';
 
-let name = undefined;
+let name = 'Anatoly Samokisha';
 
 module.exports = { name };
